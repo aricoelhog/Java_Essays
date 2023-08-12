@@ -1,5 +1,5 @@
-/*Escreva um programa em java que leia dois pontos num espaÁo de duas 
-dimensıes (a, b), e calcule sua dist‚ncia. */
+/*Escreva um programa em java que leia dois pontos num espa√ßo de duas 
+dimens√µes (a, b), e calcule sua dist√¢ncia. */
 package org.Questao3;
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ public class Questao3 {
 		  Scanner teclado = new Scanner(System.in);
 		  
 		  float a,b,dist;
-		  System.out.print("Informe a posiÁ„o dos pontos no espaÁo: ");
+		  System.out.print("Informe a posi√ß√£o dos pontos no espa√ßo: ");
 		  a = teclado.nextFloat();
 		  b = teclado.nextFloat();
 		  
@@ -17,7 +17,7 @@ public class Questao3 {
 		  else 
 			  dist = b - a;
 		  
-		  System.out.print("A dist‚ncia È igual a "+ dist);
+		  System.out.print("A dist√¢ncia √© igual a "+ dist);
 		  
 	}
 }
