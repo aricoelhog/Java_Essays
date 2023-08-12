@@ -2,7 +2,7 @@
 
 ![image](https://github.com/aricoelhog/Java_Essays/assets/139346671/1a9a9f61-01e8-484c-af9e-90b66b58f9b0)
 
-![image](https://github.com/aricoelhog/Java_Essays/assets/139346671/2e6335c2-917c-4f65-a00c-8f08ed4aefe6)
+![image](https://github.com/aricoelhog/Java_Essays/assets/139346671/aec6e975-0529-49d3-8d9e-58f7b6597080)
 
 1.	Crie uma classe Equipamento com o atributo ligado (tipo boolean) e com os métodos liga e desliga. O método liga() torna o atributo ligado true e o método desliga() torna o atributo ligado false.
 
@@ -34,5 +34,3 @@ ii.	Se a forma for tridimensional, imprima sua área e volume.
 7.	Crie um programa com um método que demonstra que um método com seu próprio bloco try não precisa capturar todas os possíveis erros gerados dentro deste bloco. Algumas exceções podem ser deixadas de lado, e serem capturadas em outros escopos. Imprima o stack trace desta exceção.
 
 8.	Crie uma versão genérica simplificada do método isEqualTo, que compara seus dois argumentos com o método equals e retorna true se forem iguais e false caso contrário. Teste o método genérico com diversos tipos, incluindo Object.
-
-9.	Crie uma classe genérica Vetor, que recebe como parâmetros o número e o tipo de elementos do vetor. Nesta classe devem ser criados um construtor para alocar o vetor, um método para retornar a quantidade de elementos no vetor (chamado getSize()) e outro para adicionar um elemento (chamado add()). Não utilize a classe Vector.
