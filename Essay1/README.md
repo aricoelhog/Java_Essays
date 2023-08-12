@@ -1,4 +1,4 @@
-# Object Oriented Programming - ESSAY 1
+# Object Oriented Programming - Java ESSAY 1
 ![image](https://github.com/aricoelhog/POO_Essay1/assets/139346671/fde6815c-6cc5-4196-a6a1-c0a841c185cb)
 
 2. Escreva um programa em java leia os valores de a, b e c e determine as raízes de uma equação de segundo grau: ax2 + bx + c = 0. (recordar que o discriminante ∆ = b^2 − 4ac, e que a raiz r = −b±√∆/2a.
